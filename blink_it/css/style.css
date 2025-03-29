@@ -1,0 +1,17 @@
+.dark-mode{
+    background-color:  rgb(26, 25, 25);
+    color: white;
+}
+.one{
+    display: inline;
+    font-weight: 600;
+}
+.two{
+    color: green;
+    display: inline;
+    font-weight: 600;
+}
+header .titlebar{
+    background-color: yellow;
+    padding: 5px 5px;
+}
